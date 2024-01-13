@@ -1,6 +1,6 @@
 ## Initialize Go app
 
-go mod init github.com/tomdoestech/go-react-todo
+go mod init github.com/c/go-react-todo
 
 ## Install Fiber v2
 
